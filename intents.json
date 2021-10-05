@@ -910,7 +910,20 @@
     },
     {
       "tag": "tag29",
-      "patterns": ["Who should wear what kind of mask?"],
+      "patterns": [
+        "Who should wear what kind of mask?",
+        "different kind of masks",
+        "which masks should healthcare workers wear",
+        "which masks are best",
+        "medical masks by healtcare workers",
+        "which kind of masks to be weared",
+        "can we wear mask of any type",
+        "different type of masks",
+        "which masks are to be weard by public",
+        "which masks gives you best protection",
+        "Risks of wearing wrong masks",
+        "wrong masks",
+      ],
       "responses": [
         "Medical masks are recommended for:Health workers in clinical settings. See our guidance for more information on the use of personal protective equipment by health care workers.Anyone who is feeling unwell, including people with mild symptoms, such as muscle aches, slight cough, sore throat or fatigue.Anyone awaiting COVID-19 test results or who has tested positive.People caring for someone who is a suspected or confirmed case of COVID-19 outside of health facilities.Medical masks are also recommended for the following groups, because they are at a higher risk of becoming seriously ill with COVID-19 and dying:People aged 60 or over.People of any age with underlying health conditions, including chronic respiratory disease, cardiovascular disease, cancer, obesity, immunocompromised patients and diabetes mellitus.Non-medical, fabric masks can be used by the general public under the age of 60 and who do not have underlying health conditions."
       ],
@@ -918,7 +931,17 @@
     },
     {
       "tag": "tag30",
-      "patterns": ["When should masks be worn by the general public?"],
+      "patterns": [
+        "When should masks be worn by the general public?",
+        "Should public wear masks",
+        "should we wear masks in public places",
+        "masks in public places",
+        "importance of masks while going in public places",
+        "crowded places importance of wearing masks",
+        "should we wear masks inside metro",
+        "public places safety for wearing masks",
+        "why masks public always wear",
+      ],
       "responses": [
         "In areas where the virus is circulating, masks should be worn when you’re in crowded settings, where you can’t be at least 1 metre from others, and in rooms with poor or unknown ventilation. It’s not always easy to determine the quality of ventilation, which depends on the rate of air change, recirculation and outdoor fresh air. So if you have any doubts, it’s safer to simply wear a mask."
       ],
@@ -926,7 +949,18 @@
     },
     {
       "tag": "tag31",
-      "patterns": ["Should I wear a mask while exercising?"],
+      "patterns": [
+        "Should I wear a mask while exercising?",
+        "Should I wear a mask while running?",
+        "Should I wear a mask while doing yoga?",
+        "Should I wear a mask while playing?",
+        "Should I wear a mask while sitting in my car?",
+        "Should I wear a mask in garden?",
+        "Should I wear a mask if I am alone",
+        "Should I not wear masks while exercise",
+        "When should we not wear masks",
+        "when should we wear masks",
+      ],
       "responses": [
         "Even when you’re in an area of COVID-19 transmission, masks should not be worn during vigorous physical activity because of the risk of reducing your breathing capacity. No matter how intensely you exercise, keep at least 1 metre away from others, and if you’re indoors, make sure there is adequate ventilation."
       ],
@@ -936,6 +970,14 @@
       "tag": "tag32",
       "patterns": [
         "How do I choose what fabric mask to buy, or ideal fit and fabrics if I make my own?"
+        "fabric for masks",
+        "ideal fit masks",
+        "farbric ideal fit masks",
+        "comfortable masks",
+        "which fabric to buy for designing masks",
+        "how to check fabric masks to buy, or ideal fit and fabrics",
+        "fabric to choose while making masks at home",
+        "procedure for making masks at home",
       ],
       "responses": [
         "Check for filtration, breathability and fit when choosing a fabric mask. It should be held in place comfortably with little adjustment using elastic bands or ties. There are different mask shapes such as flat-fold or duckbill – find the one that fits closely over your nose, cheeks and chin. When the edges of the mask are not close to the face and shift, such as when speaking, air penetrates through the edges of the mask rather than being filtered through the fabric. Masks with vents or exhalation valves are not advised because they allow unfiltered breath to escape the mask."
@@ -944,16 +986,37 @@
     },
     {
       "tag": "tag33",
-      "patterns": ["How should I wear and clean a fabric mask?"],
+      "patterns": [
+        "How should I wear and clean a fabric mask?",
+        "how should we wear masks",
+        "how should we use masks",
+        "How to not use masks",
+        "wearing a masks",
+        "importance of properly wearning masks",
+        "safety while wearning masks",
+        "precautions while wearning masks",
+        "should we clean our hands before wearing masks",
+        "How to put on and wear a fabric mask",
+      ],
       "responses": [
-        "How to put on and wear a fabric mask:Before touching the mask, clean your hands with an alcohol-based hand rub or soap and water.Inspect the mask for tears or holes, do not use a mask that is damaged.Adjust the mask to cover your mouth, nose, and chin, leaving no gaps on the sides.Place the straps behind your head or ears. Do not cross the straps because this can cause gaps on the side of your face.Avoid touching the mask while wearing it. If you touch it, clean your hands.Change your mask if it gets dirty or wet."
+        "Before touching the mask, clean your hands with an alcohol-based hand rub or soap and water.Inspect the mask for tears or holes, do not use a mask that is damaged.Adjust the mask to cover your mouth, nose, and chin, leaving no gaps on the sides.Place the straps behind your head or ears. Do not cross the straps because this can cause gaps on the side of your face.Avoid touching the mask while wearing it. If you touch it, clean your hands.Change your mask if it gets dirty or wet."
       ],
       "context": [""]
     },
     {
       "tag": "tag34",
       "patterns": [
-        "What is the difference between medical masks and respirators, like N95s?"
+        "What is the difference between medical masks and respirators, like N95s?",
+        "difference between respirators and masks",
+        "are respirators save",
+        "what should we wear medical masks or respirators",
+        "Is N95 masks safe ?",
+        "Protection values of masks and respirators",
+        "What is more safe maks or respirators",
+        "Usage of Respirators in covid",
+        "N95 masks for covid",
+        "N95 masks safety concern",
+        "N95 masks for covid protection",
       ],
       "responses": [
         "Medical masks and respirator masks are similar in their protection value. However, respirators are specific for certain procedures and instances because they have a tightly fitted component to them. Respirator masks are designed to protect healthcare workers who provide care to COVID-19 patients in settings and areas where aerosol generating procedures are undertaken. Healthcare workers should be fit tested before using a respirator to ensure that they are wearing the correct size. Wearing a loose-fitting respirator will not offer the same protection to the wearer and may allow small particles to get inside the mask through the sides."
@@ -961,9 +1024,18 @@
       "context": [""]
     },
     {
-      "tag": "tag25",
+      "tag": "tag35",
       "patterns": [
         "Does WHO recommend the use of masks with exhalation valves to prevent transmission of COVID-19?"
+        "Should person wear masks with exhalation valves",
+        "which mask should we not wear",
+        "respirators with exhalation valves problems",
+        "Person on respirator with exhalation safety",
+        "Respirators",
+        "exhalation values",
+        "which masks are advised for usage",
+        "risks of wearing masks",
+        "Risks for person who are using respirators with exhalation valves",
       ],
       "responses": [
         "No, WHO does not advise using masks or respirators with exhalation valves. These masks are intended for industrial workers to prevent dust and particles from being breathed in as the valve closes on inhale. However, the valve opens on exhale, making it easier to breathe but also allowing any virus to pass through the valve opening. This makes the mask ineffective at preventing the spread of COVID-19 or any other respiratory virus."
@@ -973,7 +1045,18 @@
     {
       "tag": "tag36",
       "patterns": [
-        "Does WHO recommend the use of gloves in the community to prevent transmission of COVID-19?"
+        "Does WHO recommend the use of gloves in the community to prevent transmission of COVID-19?",
+        "Should we wear gloves to stop covid transmission",
+        "Does WHO recommends use of gloves",
+        "Are gloves important for covid protection",
+        "how important are gloves for covid protection",
+        "why gloves are not advised by WHO",
+        "Do gloves prevent covid transmission",
+        "Should we wear gloves all the time",
+        "Can we stop covid after wearing gloves",
+        "How likely we would get covid after wearing gloves",
+        "advantages of gloves",
+        "Disadvantages of gloves",
       ],
       "responses": [
         "No, WHO does not advise using gloves by people in the community. Instead, WHO encourages the installation of public hand hygiene stations at the entrance and exit of public places, such as supermarkets or public/private buildings. This helps reduce germs brought in by people’s hands. By widely improving hand hygiene practices, countries can help prevent the spread of the COVID-19 virus and other infections."
@@ -983,7 +1066,19 @@
     {
       "tag": "tag37",
       "patterns": [
-        "When should health workers wear masks in the context of COVID-19?"
+        "When should health workers wear masks in the context of COVID-19?",
+        "Health workers precautions",
+        "Health workers safety about covid",
+        "How dangerous is covid to health workers",
+        "Are Health workers safe",
+        "precautions for Heath workers",
+        "Should health workers wear masks",
+        "How safe are health workers",
+        "Disadvantages for health workers",
+        "Risk for Health Worker",
+        "Advice for health workers",
+        "Health workers risks of getting covid",
+        "importance of masks for health workers"
       ],
       "responses": [
         "Health workers are the most likely to be exposed to COVID-19 because they are in close contact with patients with suspected, probable or confirmed COVID-19.In areas of community or cluster transmission, health workers, caregivers and visitors should wear a mask at all times when in the health facility, even if physical distancing can be maintained. Masks should be worn throughout their shifts, apart from when eating, drinking or needing to change the mask for specific reasons"
