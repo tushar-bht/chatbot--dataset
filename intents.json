@@ -172,7 +172,8 @@
         "can I take antibiotics for curing corona",
         "antibiotics effective against corona",
         "antibiotics for corona",
-        "covid-19 medicines"
+        "covid-19 medicines",
+        "will antibiotics work against corona"
       ],
       "responses": [
         "No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection. COVAXIN can be used as vaccine now. "
@@ -183,20 +184,34 @@
     {
       "tag": "cure",
       "patterns": [
-        "Are there any medicines or therapies that can cure COVID-19"
+        "Are there any medicines or therapies that can cure COVID-19",
+        "vaccines for corona",
+        "corona vaccines",
+        "covid-19 vaccines",
+        "what are the options for vaccine",
+        "what is the cure for covid-19",
+        "is any vaccine available for covid-19"
       ],
       "responses": ["COVAXIN, COVISHIELD are some vaccines "],
       "context": [""]
     },
     {
       "tag": "vaccine",
-      "patterns": ["Is there a Vaccine, drug or treatment for COVID-19"],
+      "patterns": [
+        "Is there a Vaccine, drug or treatment for COVID-19",
+        "treatment for covid-19",
+        "which countries are having vaccine for covid-19"
+      ],
       "responses": ["yes America, Russia , India have discovered vaccine."],
       "context": [""]
     },
     {
       "tag": "SARS",
-      "patterns": ["Is COVID-19 the same as SARS"],
+      "patterns": [
+        "Is COVID-19 the same as SARS",
+        "SARS is same as covid-19",
+        "SARS vs corona"
+      ],
       "responses": [
         "No. The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different.\n\nSARS was more deadly but much less infectious than COVID-19. There have been no outbreaks of SARS anywhere in the world since 2003. "
       ],
@@ -205,15 +220,26 @@
 
     {
       "tag": "puton",
-      "patterns": ["how to put on, take off and dispose a mask"],
+      "patterns": [
+        "how to put on, take off and dispose a mask",
+        "how to use mask",
+        "precautions for using mask",
+        "proper way of using mask",
+        "correct way of using mask"
+      ],
       "responses": [
-        "Remember, masks should be used by everyone. Before touching the mask, clean hands with an alcohol-based hand rub or soap and water\n    Take the mask and inspect it for tears or holes.\n    Orient which side is the top side (where the metal strip is).\n    Ensure the proper side of the mask faces outwards (the coloured side).\n    Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose.\n    Pull down the mask’s bottom so it covers your mouth and your chin.\n    After use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask.\n    Discard the mask in a closed bin immediately after use.\n    Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water."
+        "Remember, masks should be used by everyone. Before touching the mask, clean hands with an alcohol-based hand rub or soap and water. Take the mask and inspect it for tears or holes. Orient which side is the top side (where the metal strip is). Ensure the proper side of the mask faces outwards (the coloured side). Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose. Pull down the mask’s bottom so it covers your mouth and your chin. After use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask. Discard the mask in a closed bin immediately after use. Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water."
       ],
       "context": [""]
     },
     {
       "tag": "incubation",
-      "patterns": ["How long is the incubation period of COVID-19"],
+      "patterns": [
+        "How long is the incubation period of COVID-19",
+        "duration of incubation period of corona",
+        "what is incubation period",
+        "length of incubation period"
+      ],
       "responses": [
         "The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available."
       ],
@@ -222,24 +248,39 @@
     {
       "tag": "human",
       "patterns": [
-        "can human become infected with the COVID-19 from an animal source"
+        "can human become infected with the COVID-19 from an animal source",
+        "corona in animals",
+        "can animals spread corona",
+        "are animals infected by covid-19",
+        "animals spreading covid-19"
       ],
       "responses": [
-        "Coronaviruses are a large family of viruses that are common in animals. Occasionally, people get infected with these viruses which may then spread to other people. For example, SARS-CoV was associated with civet cats and MERS-CoV is transmitted by dromedary camels. Possible animal sources of COVID-19 have not yet been confirmed.  \n\nTo protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals. Ensure good food safety practices at all times. Handle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or undercooked animal products."
+        "Coronaviruses are a large family of viruses that are common in animals. Occasionally, people get infected with these viruses which may then spread to other people. For example, SARS-CoV was associated with civet cats and MERS-CoV is transmitted by dromedary camels. Possible animal sources of COVID-19 have not yet been confirmed. To protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals. Ensure good food safety practices at all times. Handle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or undercooked animal products."
       ],
       "context": [""]
     },
     {
       "tag": "pet",
-      "patterns": ["Can i catch COVID-19 from pet"],
+      "patterns": [
+        "Can i catch COVID-19 from pet",
+        "can my pet spread covid-19",
+        "corona by pets",
+        "getting covid-19 by pets",
+        "can i get covid-19 from my pet"
+      ],
       "responses": [
-        "We are aware of instances of animals and pets of COVID-19 patients being infected with the disease;\nAs the intergovernmental body responsible for improving animal health worldwide, the World Organisation for Animal Health (OIE) has been developing technical guidance on specialised topics related to animal health, dedicated to veterinary services and technical experts (including on testing and quarantine);\nThere is a possibility for some animals to become infected through close contact with infected humans. Further evidence is needed to understand if animals and pets can spread the disease;\nBased on current evidence, human to human transmission remains the main driver;\nIt is still too early to say whether cats could be the intermediate host in the transmission of the COVID-19. "
+        "We are aware of instances of animals and pets of COVID-19 patients being infected with the disease. As the intergovernmental body responsible for improving animal health worldwide, the World Organisation for Animal Health (OIE) has been developing technical guidance on specialised topics related to animal health, dedicated to veterinary services and technical experts (including on testing and quarantine);\nThere is a possibility for some animals to become infected through close contact with infected humans. Further evidence is needed to understand if animals and pets can spread the disease;\nBased on current evidence, human to human transmission remains the main driver;\nIt is still too early to say whether cats could be the intermediate host in the transmission of the COVID-19. "
       ],
       "context": [""]
     },
     {
       "tag": "surface",
-      "patterns": ["how long does the virus survive on surface"],
+      "patterns": [
+        "how long does the virus survive on surface",
+        "does corona survive on surface",
+        "can a surface be infected by covid-19",
+        ""
+      ],
       "responses": [
         "It is not certain how long the virus that causes COVID-19 survives on surfaces, but it seems to behave like other coronaviruses. Studies suggest that coronaviruses (including preliminary information on the COVID-19 virus) may persist on surfaces for a few hours or up to several days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment).\n\nIf you think a surface may be infected, clean it with simple disinfectant to kill the virus and protect yourself and others. Clean your hands with an alcohol-based hand rub or wash them with soap and water. Avoid touching your eyes, mouth, or nose."
       ],
