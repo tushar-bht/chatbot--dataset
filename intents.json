@@ -368,7 +368,14 @@
     },
     {
       "tag": "worry",
-      "patterns": ["Should I worry about COVID-19", "worry", "tension"],
+      "patterns": [
+        "Should I worry about COVID-19",
+        "worry",
+        "tension",
+        "concern about corona",
+        "worry about corona",
+        "severity of corona"
+      ],
       "responses": [
         "Illness due to COVID-19 infection is generally mild, especially for children and young adults. However, it can cause serious illness: about 1 in every 5 people who catch it need hospital care. It is therefore quite normal for people to worry about how the COVID-19 outbreak will affect them and their loved ones. "
       ],
@@ -376,7 +383,12 @@
     },
     {
       "tag": "risk",
-      "patterns": ["Who is at risk of developing severe illness", "risk"],
+      "patterns": [
+        "Who is at risk of developing severe illness",
+        "risk",
+        "corona is dangerous for what type of person",
+        "people with pre-existing medical conditions are risk of covid-19"
+      ],
       "responses": [
         "While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others. "
       ],
@@ -386,7 +398,10 @@
       "tag": "anti",
       "patterns": [
         "Are antibiotics effective in preventing treating the COVID-19?",
-        "treatment of covid by antibiotics"
+        "treatment of covid by antibiotics",
+        "antibiotics for corona",
+        "antibiotics to cure corona",
+        "will antibiotics work against corona"
       ],
       "responses": [
         "No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection. "
@@ -400,7 +415,8 @@
         "Is COVID-19 the same as SARS",
         "what is sars",
         "sars virus",
-        "sars"
+        "sars",
+        "sars and covid-19"
       ],
       "responses": [
         "The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different. SARS was more deadly but much less infectious than COVID-19. There have been no outbreaks of SARS anywhere in the world since 2003."
@@ -409,7 +425,11 @@
     },
     {
       "tag": "wear",
-      "patterns": ["when Should I wear mask to protect myself"],
+      "patterns": [
+        "when should I wear mask to protect myself",
+        "when to wear a mask",
+        "when to use mask"
+      ],
       "responses": [
         "Only wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19. Disposable face mask can only be used once. We urge people to use masks wisely. "
       ],
@@ -420,7 +440,9 @@
       "patterns": [
         "who should use mask",
         "who must wear mask",
-        "is it necessary to wear mask"
+        "is it necessary to wear mask",
+        "should i wear mask",
+        "should everyone wear mask"
       ],
       "responses": [
         "Masks should always be used by everyone, specially health workers, care takers, and individuals with respiratory symptoms, such as fever and cough should take extra precautions."
@@ -430,7 +452,13 @@
 
     {
       "tag": "anim",
-      "patterns": ["how protect from animals"],
+      "patterns": [
+        "how to protect from animals",
+        "should i protect myself from animals",
+        "avoid animals",
+        "measures to take with animals",
+        "precautions with animals"
+      ],
       "responses": [
         "To protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals. Ensure good food safety practices at all times. Handle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or undercooked animal products. "
       ],
@@ -438,7 +466,13 @@
     },
     {
       "tag": "pet",
-      "patterns": ["Can I catch COVID-19 from my pet?"],
+      "patterns": [
+        "Can I catch COVID-19 from my pet?",
+        "can my pet make me sick",
+        "illness from pets",
+        "chances of getting sick from pets",
+        "corona from pets"
+      ],
       "responses": [
         "While there has been one instance of a dog being infected in Hong Kong, to date, there is no evidence that a dog, cat or any pet can transmit COVID-19."
       ],
@@ -449,7 +483,9 @@
       "patterns": [
         "How long does the virus survive on surfaces",
         "life of coronavirus on surface",
-        "virus on surface"
+        "virus on surface",
+        "corona on surface",
+        "corona survive on surface"
       ],
       "responses": [
         "It is not certain how long the virus that causes COVID-19 survives on surfaces, but it seems to behave like other corona viruses. Studies suggest that corona viruses may persist on surfaces for a few hours or up to several days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment). If you think a surface may be infected, clean it with simple disinfectant to kill the virus and protect yourself and others."
@@ -458,7 +494,13 @@
     },
     {
       "tag": "receive",
-      "patterns": ["safe to receive a package", "pack from corona area"],
+      "patterns": [
+        "safe to receive a package",
+        "pack from corona area",
+        "touch packages",
+        "safe to touch commercial goods",
+        "is it ok to recieve packages"
+      ],
       "responses": [
         "Yes. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low. "
       ],
