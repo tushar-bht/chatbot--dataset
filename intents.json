@@ -331,21 +331,33 @@
         "where were the first cases of corona found"
       ],
       "responses": [
-        "The first human cases of COVID-19 were identified in Wuhan City, China in December 2019. At this stage, it is not possible to determine precisely how humans in China were initially infected with SARS-CoV-2.\n\nHowever, SARS-CoV, the virus which caused the SARS outbreak in 2003, jumped from an animal reservoir (civet cats, a farmed wild animal) to humans and then spread between humans. In a similar way, it is thought that SARS-CoV-2 jumped the species barrier and initially infected humans, but more likely through an intermediate host, that is another animal species more likely to be handled by humans - this could be a domestic animal, a wild animal, or a domesticated wild animal and, as of yet, has not been identified.\n\nUntil the source of this virus is identified and controlled, there is a risk of reintroduction of the virus in the human population and the risk of new outbreaks like the ones we are currently experiencing"
+        "The first human cases of COVID-19 were identified in Wuhan City, China in December 2019. At this stage, it is not possible to determine precisely how humans in China were initially infected with SARS-CoV-2. However, SARS-CoV, the virus which caused the SARS outbreak in 2003, jumped from an animal reservoir (civet cats, a farmed wild animal) to humans and then spread between humans. In a similar way, it is thought that SARS-CoV-2 jumped the species barrier and initially infected humans, but more likely through an intermediate host, that is another animal species more likely to be handled by humans - this could be a domestic animal, a wild animal, or a domesticated wild animal and, as of yet, has not been identified.\n\nUntil the source of this virus is identified and controlled, there is a risk of reintroduction of the virus in the human population and the risk of new outbreaks like the ones we are currently experiencing"
       ],
       "context": [""]
     },
     {
       "tag": "airbone",
-      "patterns": ["Is COVID-19 airborne"],
+      "patterns": [
+        "Is covid-19 airborne",
+        "can corona transmit through air",
+        "spread of virus by air",
+        "can corona spread through air",
+        "how does the coronavirus disease spread"
+      ],
       "responses": [
-        "The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or speaks. These droplets are too heavy to hang in the air. They quickly fall on floors or surfaces. \n\nYou can be infected by breathing in the virus if you are within 1 metre of a person who has COVID-19, or by touching a contaminated surface and then touching your eyes, nose or mouth before washing your hands. "
+        "The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or speaks. These droplets are too heavy to hang in the air. They quickly fall on floors or surfaces. You can be infected by breathing in the virus if you are within 1 metre of a person who has COVID-19, or by touching a contaminated surface and then touching your eyes, nose or mouth before washing your hands. "
       ],
       "context": [""]
     },
     {
       "tag": "nosymptom",
-      "patterns": ["Can CoVID-19 be caught from a person who has no symptoms"],
+      "patterns": [
+        "can covid-19 be caught from a person who has no symptoms",
+        "can a person with no symptoms spread corona",
+        "can asymptomatic people transmit covid-19",
+        "corona from a person with no symptoms",
+        "asymptomatic person spreading corona"
+      ],
       "responses": [
         "The main way the disease spreads is through respiratory droplets expelled by someone who is coughing. The risk of catching COVID-19 from someone with no symptoms at all is very low. However, many people with COVID-19 experience only mild symptoms. This is particularly true at the early stages of the disease. It is therefore possible to catch COVID-19 from someone who has, for example, just a mild cough and does not feel ill. "
       ],
@@ -354,7 +366,11 @@
     {
       "tag": "deas",
       "patterns": [
-        "Can I catch COVID-19 from the feces of someone with the disease"
+        "Can I catch COVID-19 from the feces of someone with the disease",
+        "can covid-19 spread from body waste",
+        "can excrement of infected person spread corona",
+        "can corona spread from waste of an infected person",
+        "corona from poop"
       ],
       "responses": [
         "The risk of catching COVID-19 from the feces of an infected person appears to be low. While initial investigations suggest the virus may be present in feces in some cases, spread through this route is not a  main feature of the outbreak. The ongoing research on the ways COVID-19 is spread and will continue to share new findings. Because this is a risk, however, it is another reason to clean hands regularly, after using the bathroom and before eating. "
