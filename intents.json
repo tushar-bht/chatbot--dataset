@@ -712,7 +712,12 @@
       "tag": "funeral",
       "patterns": [
         "am i at risk if i go to funeral of someone who died covid19",
-        "can i attend funeral"
+        "can i attend funeral",
+        "can I attend funeral of covid patient",
+        "risk in attending funeral of someone who has died of covid",
+        "transmission of covid from died person",
+        "can a person who has died of covid spread covid virus",
+        "risk in attending funeral of person who was having covid"
       ],
       "responses": [
         "There is currently no known risk associated with being in the same room at a funeral or visitation service with the body of someone who died of COVID-19."
@@ -725,7 +730,13 @@
         "is cleaning effective against covid virus",
         "normal cleaning",
         "cleaning with water effective",
-        "how to clean surfaces"
+        "how to clean surfaces",
+        "just cleaning with water sufficient",
+        "can cleaning surfaces prevent from covid",
+        "is cleaning effective in covid transmission",
+        "can cleaning stop covid transmission",
+        "Disadvantages of cleaning only",
+        "How should we clean surfaces"
       ],
       "responses": [
         "Cleaning does not kill germs, but by removing them, it lowers their numbers and the risk of spreading infection. If a surface may have gotten the virus on it from a person with or suspected to have COVID-19, the surface should be cleaned and disinfected. Disinfecting kills germs on surfaces."
@@ -738,7 +749,13 @@
         "helpline numbers",
         "states helpline numbers",
         "india helpline for corona",
-        "on which  number i should call"
+        "on which  number i should call",
+        "covid helpline",
+        "i need help",
+        "helpine for covid",
+        "helpline numbers",
+        "covid helpline numbers",
+        "covid emergency helpine numbers"
       ],
       "responses": [
         "=========State and union territory Helpline numbers=====\n1.Andaman and Nicobar : 03192-232102, 03192-234287\n2.Andhra Pradesh : 0866-2410978\n3.Arunachal Pradesh : 104\n4.Assam : 104\n5.Bihar : 0612-2217681, 0612-2233806, 104\n6.Chandigarh : 0172-2752038, 0172-2752031, 0172-2704048\n7.Chhattisgarh : 0771-282113, 0771-2446607, 0771-2440608\n8.Dadra and Nagar Haveli : 104, 1077, 0260-2642106, 0260-2630304\n9.Daman and Diu : 104, 1077, 0260-2642106, 0260-2630304\n10.Delhi : 011-22307145\n11.Goa : 104\n12.Gujarat : 079-23251900, 079-23251908, 104\n13.Haryana : 0172-2545938\n14.Himachal Pradesh : 077-2628940, 077-2629439, 104\n15.Jammu and Kashmir : 0191-2549676, 0191-2520982, 0194-2440283, 0194-2452052, 0194-2457313\n16.Jharkhand : 0651-2282201, 0651-2284185, 0651-223488, 181, 104\n16.Karnataka : 080-46848600, 1075, 104\n17.Kerala : 0471-2552056, 0471-25521056\n18.Ladakh : 01982-256462, 01982-257416, 01982-258960\n19.Lakshadweep : 104/ 04896-263742\n20.Maharashtra : 022-22024535\n21.Manipur : 1800-345-3818\n22.Meghalaya : 108, 0364-2224100, 0364-2590623\n23.Mizoram : 102\n24.Madhya Pradesh : 104, 1075, 181,0755-2411180,0755-2704201, 0729-22344\n25.Nagaland : 0370-2291122, 0370-2270338\n26.Odisha : 104, 0674-2534177\n27.Puducherry : 104, 1070, 1077, 0413-2253407\n28.Punjab : 104\n29.Rajasthan : 0141-2225000, 0141-2225624\n30.Sikkim : 104, 03592-284444\n31.Tamil Nadu : 0471-2552056, 0471-25521056\n32.Telengana : 104, 040-23286100\n33.Tripura : 0381-2315879, 0381-2412424, 0381-2413434\n34.Uttar Pradesh : 0522-2237515\n35.Uttarakhand : 104\n36.West Bengal : 1800-313-444222, 033-23412600"
@@ -748,7 +765,23 @@
 
     {
       "tag": "tag1",
-      "patterns": ["What is COVID-19?"],
+      "patterns": [
+        "What is COVID-19?",
+        "what is meant by covid-19",
+        "tell me about covid-19",
+        "whats covid-19",
+        "what do we mean by covid-19",
+        "what is the meaning of covid-19",
+        "meaning of covid-19",
+        "What is COVID?",
+        "what is meant by covid",
+        "tell me about covid",
+        "whats covid",
+        "what do we mean by covid",
+        "what is the meaning of covid",
+        "meaning of covid",
+        "covid-19, covid"
+      ],
       "responses": [
         "COVID-19 is the disease caused by a new coronavirus called SARS-CoV-2. WHO first learned of this new virus on 31 December 2019, following a report of a cluster of cases of ‘viral pneumonia’ in Wuhan, People’s Republic of China."
       ],
@@ -756,7 +789,20 @@
     },
     {
       "tag": "tag2",
-      "patterns": ["What are the symptoms of COVID-19?"],
+      "patterns": [
+        "What are the symptoms of COVID-19?",
+        "symptoms of covid-19",
+        "covid-19 symptoms",
+        "covid-19 disease indicator",
+        "covid-19 disease symptoms",
+        "do i have covid-19",
+        "What are the symptoms of COVID?",
+        "symptoms of covid",
+        "covid symptoms",
+        "covid disease indicator",
+        "covid disease symptoms",
+        "do i have covid"
+      ],
       "responses": [
         "The most common symptoms of COVID-19 are Fever Dry cough Fatigue. Other symptoms that are less common and may affect some patients include: Loss of taste or smell,Nasal congestion,Conjunctivitis (also known as red eyes)\nSore throat,\nHeadache,\nMuscle or joint pain,\nDifferent types of skin rash,\nNausea or vomiting,\nDiarrhea,\nChills or dizziness.Symptoms of severe COVID‐19 disease include: Shortness of breath,Loss of appetite,Confusion,Persistent pain or pressure in the chest,High temperature (above 38 °C)."
       ],
@@ -764,7 +810,20 @@
     },
     {
       "tag": "tag3",
-      "patterns": ["What happens to people who get COVID-19?"],
+      "patterns": [
+        "What happens to people who get COVID-19?",
+        "what do people with covid-19 feel",
+        "is covid-19 dangerous",
+        "what happens to one who gets covid-19",
+        "what will happen to me if I will get covid-19",
+        "what is going to happen with me if I will get covid-19",
+        "What happens to people who get COVID?",
+        "what do people with covid feel",
+        "is covid dangerous",
+        "what happens to one who gets covid",
+        "what will happen to me if I will get covid",
+        "what is going to happen with me if I will get covid"
+      ],
       "responses": [
         "Among those who develop symptoms, most (about 80%) recover from the disease without needing hospital treatment. About 15% become seriously ill and require oxygen and 5% become critically ill and need intensive care. Complications leading to death may include respiratory failure, acute respiratory distress syndrome (ARDS), sepsis and septic shock, thromboembolism, and/or multiorgan failure, including injury of the heart, liver or kidneys."
       ],
@@ -772,7 +831,18 @@
     },
     {
       "tag": "tag4",
-      "patterns": ["Who is most at risk of severe illness from COVID-19?"],
+      "patterns": [
+        "Who is most at risk of severe illness from COVID-19?",
+        "who are the people having risk of severe illness from covid-19",
+        "To whom covid-19 disease is dangerous",
+        "who should do maximum precautions from covid-19",
+        "who are at most risk from covid-19",
+        "Who is most at risk of severe illness from COVID",
+        "who are the people having risk of severe illness from covid",
+        "To whom covid disease is dangerous",
+        "who should do maximum precautions from covid",
+        "who are at most risk from covid"
+      ],
       "responses": [
         "People aged 60 years and over, and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, obesity or cancer, are at higher risk of developing serious illness.However, anyone can get sick with COVID-19 and become seriously ill or die at any age."
       ],
@@ -780,7 +850,18 @@
     },
     {
       "tag": "tag5",
-      "patterns": ["Are there long-term effects of COVID-19?"],
+      "patterns": [
+        "Are there long-term effects of COVID-19?",
+        "what are the long-term effect of covid-19",
+        "long-term effect of covid-19",
+        "what are the effect of covid-19 that last longer",
+        "long-term effect in our body after getting covid-19",
+        "Are there long-term effects of COVID?",
+        "what are the long-term effect of covid",
+        "long-term effect of covid",
+        "what are the effect of covid that last longer",
+        "long-term effect in our body after getting covid"
+      ],
       "responses": [
         "Some people who have had COVID-19, whether they have needed hospitalization or not, continue to experience symptoms, including fatigue, respiratory and neurological symptoms.WHO is working with our Global Technical Network for Clinical Management of COVID-19, researchers and patient groups around the world to design and carry out studies of patients beyond the initial acute course of illness to understand the proportion of patients who have long term effects, how long they persist, and why they occur. These studies will be used to develop further guidance for patient care."
       ],
@@ -789,7 +870,20 @@
     {
       "tag": "tag6",
       "patterns": [
-        "How can we protect others and ourselves if we don't know who is infected?"
+        "How can we protect others and ourselves if we don't know who is infected?",
+        "how can we protect ourselves",
+        "what are the precautions for covid-19",
+        "standard precautions for covid-19",
+        "how to prevent ourselves from covid-19",
+        "what are the ways to prevent ourselves from covid-19",
+        "what to do if we don't know who is infected from covid-19",
+        "how to protect ourselves from covid-19",
+        "what are the precautions for covid",
+        "standard precautions for covid",
+        "how to prevent ourselves from covid",
+        "what are the ways to prevent ourselves from covid",
+        "what to do if we don't know who is infected from covid",
+        "how to protect ourselves from covid"
       ],
       "responses": [
         "Stay safe by taking some simple precautions, such as physical distancing, wearing a mask, especially when distancing cannot be maintained, keeping rooms well ventilated, avoiding crowds and close contact, regularly cleaning your hands, and coughing into a bent elbow or tissue. Check local advice where you live and work. Do it all!"
@@ -798,7 +892,18 @@
     },
     {
       "tag": "tag7",
-      "patterns": ["When should I get a test for COVID-19?"],
+      "patterns": [
+        "When should I get a test for COVID-19?",
+        "when should we go for test of covid-19",
+        "how long should we wait for test of covid-19",
+        "when should we get tested for covid-19",
+        "after how much days of illness should we go for test of covid-19",
+        "When should I get a test for COVID?",
+        "when should we go for test of covid",
+        "how long should we wait for test of covid",
+        "when should we get tested for covid",
+        "after how much days of illness should we go for test of covid"
+      ],
       "responses": [
         "Anyone with symptoms should be tested, wherever possible. People who do not have symptoms but have had close contact with someone who is, or may be, infected may also consider testing – contact your local health guidelines and follow their guidance.While a person is waiting for test results, they should remain isolated from others. Where testing capacity is limited, tests should first be done for those at higher risk of infection, such as health workers, and those at higher risk of severe illness such as older people, especially those living in seniors’ residences or long-term care facilities."
       ],
@@ -806,7 +911,20 @@
     },
     {
       "tag": "tag8",
-      "patterns": ["What test should I get to see if I have COVID-19?"],
+      "patterns": [
+        "What test should I get to see if I have COVID-19?",
+        "what are the test for covid-19",
+        "test available for covid-19",
+        "different test for covid-19",
+        "test for covid-19",
+        "covid-19 tests",
+        "What test should I get to see if I have COVID?",
+        "what are the test for covid",
+        "test available for covid",
+        "different test for covid",
+        "test for covid",
+        "covid tests"
+      ],
       "responses": [
         "In most situations, a molecular test is used to detect SARS-CoV-2 and confirm infection. Polymerase chain reaction (PCR) is the most commonly used molecular test. Samples are collected from the nose and/or throat with a swab. Molecular tests detect virus in the sample by amplifying viral genetic material to detectable levels. For this reason, a molecular test is used to confirm an active infection, usually within a few days of exposure and around the time that symptoms may begin."
       ],
@@ -814,7 +932,16 @@
     },
     {
       "tag": "tag9",
-      "patterns": ["What about rapid tests?"],
+      "patterns": [
+        "What about rapid tests?",
+        "what is rapid tests",
+        "is rapid antigen test good",
+        "what is done in rapid antigen test",
+        "rapid test for covid-19",
+        "rapid test for covid",
+        "rapid antigen test for covid-19",
+        "rapid antigen test for covid"
+      ],
       "responses": [
         "Rapid antigen tests (sometimes known as a rapid diagnostic test – RDT) detect viral proteins (known as antigens). Samples are collected from the nose and/or throat with a swab. These tests are cheaper than PCR and will offer results more quickly, although they are generally less accurate. These tests perform best when there is more virus circulating in the community and when sampled from an individual during the time they are most infectious."
       ],
@@ -823,7 +950,19 @@
     {
       "tag": "tag10",
       "patterns": [
-        "I want to find out if I had COVID-19 in the past, what test could I take?"
+        "I want to find out if I had COVID-19 in the past, what test could I take?",
+        "How to know whether I got covid-19 in past",
+        "how know whether I have antibodies for covid-19",
+        "antibodies for fighting covid-19's test",
+        "test whether I have antibodies for covid-19 or not",
+        "antibodies for covid-19",
+        "test for identifying antibodies",
+        "I want to find out if I had COVID in the past, what test could I take?",
+        "How to know whether I got covid in past",
+        "how know whether I have antibodies for covid",
+        "antibodies for fighting covid's test",
+        "test whether I have antibodies for covid or not",
+        "antibodies for covid"
       ],
       "responses": [
         "Antibody tests can tell us whether someone has had an infection in the past, even if they have not had symptoms. Also known as serological tests and usually done on a blood sample, these tests detect antibodies produced in response to an infection. In most people, antibodies start to develop after days to weeks and can indicate if a person has had past infection. Antibody tests cannot be used to diagnose COVID-19 in the early stages of infection or disease but can indicate whether or not someone has had the disease in the past."
@@ -832,7 +971,18 @@
     },
     {
       "tag": "tag11",
-      "patterns": ["What is the difference between isolation and quarantine?"],
+      "patterns": [
+        "What is the difference between isolation and quarantine?",4
+        "isolation vs quarantine",
+        "who should go for isolation",
+        "who should do quarantine",
+        "what is isolation",
+        "what is quarantine",
+        "is quarantine better than isolation",
+        "is isolation better than quarantine",
+        "when should we go for isolation",
+        "when should we go for quarantine"
+      ],
       "responses": [
         "Both isolation and quarantine are methods of preventing the spread of COVID-19.Quarantine is used for anyone who is a contact of someone infected with the SARS-CoV-2 virus, which causes COVID-19, whether the infected person has symptoms or not. Quarantine means that you remain separated from others because you have been exposed to the virus and you may be infected and can take place in a designated facility or at home. For COVID-19, this means staying in the facility or at home for 14 days.Isolation is used for people with COVID-19 symptoms or who have tested positive for the virus. Being in isolation means being separated from other people, ideally in a medically facility where you can receive clinical care. If isolation in a medical facility is not possible and you are not in a high risk group of developing severe disease, isolation can take place at home. If you have symptoms, you should remain in isolation for at least 10 days plus an additional 3 days without symptoms. If you are infected and do not develop symptoms, you should remain in isolation for 10 days from the time you test positive."
       ],
@@ -841,7 +991,16 @@
     {
       "tag": "tag12",
       "patterns": [
-        "What should I do if I have been exposed to someone who has COVID-19?"
+        "What should I do if I have been exposed to someone who has COVID-19?",
+        "what should I do if I came in contact with someone who has covid-19",
+        "i came in contact with person having covid-19",
+        "what are the my risk of getting covid-19 if i was exposed to person having covid-19",
+        "What if someone came in contact with another person having covid-19",
+        "What should I do if I have been exposed to someone who has COVID?",
+        "what should I do if I came in contact with someone who has covid",
+        "i came in contact with person having covid",
+        "what are the my risk of getting covid if i was exposed to person having covid",
+        "What if someone came in contact with another person having covid"
       ],
       "responses": [
         "If you have been exposed to someone with COVID-19, you may become infected, even if you feel well.After exposure to someone who has COVID-19, do the following: Call your health care provider or COVID-19 hotline to find out where and when to get a test.\nCooperate with contact-tracing procedures to stop the spread of the virus.\nIf testing is not available, stay home and away from others for 14 days.\nWhile you are in quarantine, do not go to work, to school or to public places. Ask someone to bring you supplies.\nKeep at least a 1-metre distance from others, even from your family members.\nWear a medical mask to protect others, including if/when you need to seek medical care.\nClean your hands frequently.\nStay in a separate room from other family members, and if not possible, wear a medical mask.\nKeep the room well-ventilated.\nIf you share a room, place beds at least 1 metre apart.\nMonitor yourself for any symptoms for 14 days.\nStay positive by keeping in touch with loved ones by phone or online, and by exercising at home.If you live in an area with malaria or dengue fever, seek medical help if you have a fever. While travelling to and from the health facility and during medical care, wear a mask, keep at least a 1-metre distance from other people and avoid touching surfaces with your hands. This applies to adults and children. Read our malaria and COVID-19 Q&A for more information."
@@ -850,7 +1009,17 @@
     },
     {
       "tag": "tag13",
-      "patterns": ["How long does it take to develop symptoms?"],
+      "patterns": [
+        "How long does it take to develop symptoms?",
+        "after how many days of covid-19 exposure, symptoms may come",
+        "how long our body takes to develop covid-19 symptoms",
+        "how long after exposure of covid-19 symptoms are developed",
+        "how long does it take to develop covid-19 symptoms",
+        "after how many days of covid exposure, symptoms may come",
+        "how long our body takes to develop covid symptoms",
+        "how long after exposure of covid symptoms are developed",
+        "how long does it take to develop covid symptoms"
+      ],
       "responses": [
         "The time from exposure to COVID-19 to the moment when symptoms begin is, on average, 5-6 days and can range from 1-14 days. This is why people who have been exposed to the virus are advised to remain at home and stay away from others, for 14 days, in order to prevent the spread of the virus, especially where testing is not easily available."
       ],
@@ -1002,7 +1171,15 @@
     },
     {
       "tag": "tag22",
-      "patterns": ["What type of mask should children wear?"],
+      "patterns": [
+        "What type of mask should children wear?",
+        "which mask should be worn by children",
+        "masks for children",
+        "children's masks",
+        "which masks should children wear",
+        "mask for a child",
+        "mask suitable for children"
+      ],
       "responses": [
         "Children who are in general good health can wear a non-medical or fabric mask. This provides source control, meaning it keeps the virus from being transmitted to others if they are infected and are not aware that they are infected. The adult who is providing the mask should ensure the fabric mask is the correct size and sufficiently covers the nose, mouth and chin of the child.Children with underlying health conditions such as cystic fibrosis, cancer or immunosuppression, should, in consultation with their medical providers, wear a medical mask. A medical mask controls spreading of the virus and protection to the wearer, and is recommended for anyone who is at higher risk of getting seriously ill from COVID-19."
       ],
