@@ -211,7 +211,9 @@
       "patterns": [
         "Is COVID-19 the same as SARS",
         "SARS is same as covid-19",
-        "SARS vs corona"
+        "SARS vs corona",
+        "corona same as SARS",
+        "is covid-19 and SARS the same"
       ],
       "responses": [
         "No. The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different.\n\nSARS was more deadly but much less infectious than COVID-19. There have been no outbreaks of SARS anywhere in the world since 2003. "
@@ -239,7 +241,8 @@
         "How long is the incubation period of COVID-19",
         "duration of incubation period of corona",
         "what is incubation period",
-        "length of incubation period"
+        "length of incubation period",
+        "incubation period"
       ],
       "responses": [
         "The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available."
@@ -370,7 +373,8 @@
         "can covid-19 spread from body waste",
         "can excrement of infected person spread corona",
         "can corona spread from waste of an infected person",
-        "corona from poop"
+        "corona from poop",
+        "risk of catching corona from the feces of an infected person"
       ],
       "responses": [
         "The risk of catching COVID-19 from the feces of an infected person appears to be low. While initial investigations suggest the virus may be present in feces in some cases, spread through this route is not a  main feature of the outbreak. The ongoing research on the ways COVID-19 is spread and will continue to share new findings. Because this is a risk, however, it is another reason to clean hands regularly, after using the bathroom and before eating. "
@@ -381,8 +385,11 @@
       "tag": "protect",
       "patterns": [
         "What can I do to protect myself",
+        "how can I protect myself",
         "how to protect",
-        "how to protect myself from corona"
+        "how to protect myself from corona",
+        "protection measures",
+        "measures to protect yourself from corona"
       ],
       "responses": [
         "Protection measures for everyone Stay aware of the latest information on the COVID-19 outbreak,available on the national,state and local public health authority. Many countries around the world have seen cases of COVID-19 and several have seen outbreaks. Authorities in China and some other countries have succeeded in slowing or stopping their outbreaks. However, the situation is unpredictable so check regularly for the latest news. Getting vaccinated. "
@@ -395,14 +402,14 @@
         "precautions",
         "reduce chance of getting corona",
         "prevention",
-        "how to prevent from covid-19",
+        "how to prevent yourself from covid-19",
         "Protect",
         "protection",
         "how to prevent",
         "prevent"
       ],
       "responses": [
-        "1.Regularly and thoroughly clean your hands with an alcoholbased hand rub or wash them with soap and water. \n2.Maintain at least 1 metre (3 feet) distance between yourself andanyone who is coughing or sneezing. \n3.Avoid touching eyes, nose and mouth. \n4.Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority. "
+        "1.Regularly and thoroughly clean your hands with an alcohol based hand rub or wash them with soap and water. \n2.Maintain at least 1 metre (3 feet) distance between yourself andanyone who is coughing or sneezing. \n3.Avoid touching eyes, nose and mouth. \n4.Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority. "
       ],
       "context": [""]
     },
@@ -427,7 +434,9 @@
         "Who is at risk of developing severe illness",
         "risk",
         "corona is dangerous for what type of person",
-        "people with pre-existing medical conditions are risk of covid-19"
+        "people with pre-existing medical conditions are risk of covid-19",
+        "is corona dangerous for older people",
+        "is corona dangerous for people with bad health conditions"
       ],
       "responses": [
         "While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others. "
@@ -452,11 +461,13 @@
     {
       "tag": "sars",
       "patterns": [
-        "Is COVID-19 the same as SARS",
+        "is covid-19 same as SARS",
         "what is sars",
         "sars virus",
         "sars",
-        "sars and covid-19"
+        "sars and covid-19",
+        "relation between sars and covid-19",
+        "is sars and covid-19 same"
       ],
       "responses": [
         "The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different. SARS was more deadly but much less infectious than COVID-19. There have been no outbreaks of SARS anywhere in the world since 2003."
@@ -468,7 +479,9 @@
       "patterns": [
         "when should I wear mask to protect myself",
         "when to wear a mask",
-        "when to use mask"
+        "when to use mask",
+        "wearing mask all day",
+        "should I wear mask all the time"
       ],
       "responses": [
         "Only wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19. Disposable face mask can only be used once. We urge people to use masks wisely. "
@@ -482,7 +495,8 @@
         "who must wear mask",
         "is it necessary to wear mask",
         "should i wear mask",
-        "should everyone wear mask"
+        "should everyone wear mask",
+        "what people should wear mask"
       ],
       "responses": [
         "Masks should always be used by everyone, specially health workers, care takers, and individuals with respiratory symptoms, such as fever and cough should take extra precautions."
@@ -549,7 +563,14 @@
 
     {
       "tag": "whycovid",
-      "patterns": ["why disease is called covid19"],
+      "patterns": [
+        "why disease is called covid19",
+        "why the disease is named covid19",
+        "meaning of covid19",
+        "reasons for calling disease covid19",
+        "why the name is covid19",
+        "covid19 fullform"
+      ],
       "responses": [
         "In COVID-19, ‘CO’ stands for ‘corona,’ ‘VI’ for ‘virus,’ and ‘D’ for disease. Formerly, this disease was referred to as “2019 novel coronavirus” or “2019-nCoV”."
       ],
@@ -557,7 +578,11 @@
     },
     {
       "tag": "stigma",
-      "patterns": ["how can people help to stop stigma related to covid-19"],
+      "patterns": [
+        "how can people help to stop stigma related to covid-19",
+        "how to fight stigma related to covid-19",
+        "covid-19 stigma"
+      ],
       "responses": [
         "People can fight stigma by providing social support in situations where you notice this is occurring. Stigma affects the emotional or mental health of stigmatized groups and the communities they live in. Stopping stigma is important to making communities and community members resilient. "
       ],
@@ -566,7 +591,13 @@
 
     {
       "tag": "source",
-      "patterns": ["what is the source of virus"],
+      "patterns": [
+        "what is the source of virus",
+        "corona virus is caused by",
+        "which virus is responsible for covid-19",
+        "what is corona virus",
+        "what virus causes covid-19"
+      ],
       "responses": [
         "COVID-19 is caused by a coronavirus called SARS-CoV-2. Coronaviruses are a large family of viruses that are common in people and many different species of animals, including camels, cattle, cats, and bats.  Rarely, animal coronaviruses can infect people and then spread between people. This occurred with MERS-CoV and SARS-CoV, and now with the virus that causes COVID-19. The SARS-CoV-2 virus is a betacoronavirus, like MERS-CoV and SARS-CoV. All three of these viruses have their origins in bats. "
       ],
@@ -574,7 +605,13 @@
     },
     {
       "tag": "quarantine",
-      "patterns": ["can someone who has been quarantine spread illness"],
+      "patterns": [
+        "can someone who has been quarantine spread illness",
+        "is it safe to be with a person who is quarantined",
+        "can i get covid-19 from a person who is quarantined",
+        "what is quarantine",
+        "is a person safe after quarantine peroid is over"
+      ],
       "responses": [
         "Quarantine means separating a person or group of people who have been exposed to a contagious disease but have not developed illness (symptoms) from others who have not been exposed, in order to prevent the possible spread of that disease.For COVID-19, the period of quarantine is 14 days from the last date of exposure because the incubation period for this virus is 2 to 14 days. Someone who has been released from COVID-19 quarantine is not considered a risk for spreading the virus to others because they have not developed illness during the incubation period."
       ],
@@ -582,7 +619,14 @@
     },
     {
       "tag": "food",
-      "patterns": ["can this virus spread from food or food from restaurant"],
+      "patterns": [
+        "can this virus spread from food or food from restaurant",
+        "virus from food",
+        "virus spreding through food",
+        "can covid-19 transmit through food",
+        "does my food contain corona virus",
+        "can i get covid-19 from my food"
+      ],
       "responses": [
         "Based on information about this novel coronavirus thus far, it seems unlikely that COVID-19 can be transmitted through food – additional investigation is needed."
       ],
