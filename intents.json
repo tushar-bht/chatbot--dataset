@@ -676,7 +676,16 @@
     },
     {
       "tag": "caringsomeone",
-      "patterns": ["when caring for someone who is sick"],
+      "patterns": [
+        "when caring for someone who is sick",
+        "How to take care of someone who is sick",
+        "how to prevent covid while caring other infected person",
+        "precautions while caring someone who is sick",
+        "sick person care guidelines",
+        "take care of person suffering",
+        "covid care guidelines",
+        "precautions to take while caring other person"
+      ],
       "responses": [
         "1.Limit contact\nCOVID-19 spreads between people who are in close contact (within about 6 feet) through respiratory droplets, created when someone talks, coughs or sneezes.\n2. Eat in separate rooms or areas\n3.Avoid sharing personal items like dishes, cups/glasses, towels, bedding, or electronics (like a cell phone) with the person who is sick.\n4.When to wear a cloth face cover or gloves\n5.Clean your hands often\n6.Clean and then disinfect around the house"
       ],
@@ -687,7 +696,20 @@
       "tag": "familystress",
       "patterns": [
         "how can my family cope up with stress",
-        "family stress of covid19"
+        "family stress of covid-19",
+        "stress of covid-19",
+        "mental stress while tackling covid-19",
+        "how to deal with stress from covid-19",
+        "stress while covid-19",
+        "covid-19 stress",
+        "covid-19 mental stress",
+        "family stress of covid",
+        "stress of covid",
+        "mental stress while tackling covid",
+        "how to deal with stress from covid",
+        "stress while covid",
+        "covid stress",
+        "covid mental stress"
       ],
       "responses": [
         "Supporting children with special healthcare needs can put additional demands and stress on families, especially during emergency situations. You have likely found ways to manage the stress and challenges unique to your family’s situation. It is important to continue your family’s coping methods, including reaching out to other family members, friends, support groups, and organizations that have been helpful in the past."
@@ -696,7 +718,17 @@
     },
     {
       "tag": "soap",
-      "patterns": ["should i use soap water or hand sanitizer"],
+      "patterns": [
+        "should i use soap water or hand sanitizer",
+        "soap vs sanitizer which is better",
+        "are sanitizer better than soap",
+        "are soap better than sanitizer",
+        "which to use soap or sanitizer",
+        "what to use for Handwashing soap or sanitizer",
+        "is Handwashing with soap better",
+        "is Handwashing with sanitizer better",
+        "soap sanitizer Handwashing"
+      ],
       "responses": [
         "Handwashing is one of the best ways to protect yourself and your family from getting sick. Wash your hands often with soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing; going to the bathroom; and before eating or preparing food. If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol."
       ],
@@ -704,7 +736,17 @@
     },
     {
       "tag": "outbreak",
-      "patterns": ["what should i do if there is an outbreak in our community"],
+      "patterns": [
+        "what should i do if there is an outbreak in our community",
+        "outbreak of covid-19 in our community",
+        "step to take if covid-19 has spread in our locality",
+        "huge spread of covid-19",
+        "precautions to save ourselves in outbreak of covid",
+        "what steps should i take if there is an outbreak of covid in our society",
+        "outbreak covid society community locality",
+        "outbreak covid-19 city",
+        "covid-19 outbreak"
+      ],
       "responses": [
         "During an outbreak, stay calm and put your preparedness plan to work. Follow the steps below:\n1.Stay home if you are sick. Keep away from people who are sick. Limit close contact with others as much as possible (about 6 feet).\n2.Stay informed about the local COVID-19 situation\n3.Continue practicing everyday preventive actions\n4.Notify your workplace as soon as possible if your regular work schedule changes\n5.Stay in touch with others by phone or email"
       ],
@@ -712,7 +754,18 @@
     },
     {
       "tag": "communitywork",
-      "patterns": ["should i go to work if there is outbreak in my community"],
+      "patterns": [
+        "should i go to work if there is outbreak in my community",
+        "why should I always be at home",
+        "should I go to work in this Pandemic",
+        "why should I not got to work",
+        "can i go outside in this outbreak",
+        "can I do most important work of outside",
+        "how long do I need to be at home",
+        "outbreak home work go",
+        "outbreak community home work to go",
+        "work outbreak community"
+      ],
       "responses": [
         "Follow the advice of your local health officials. Stay home if you can. Talk to your employer to discuss working from home, taking leave if you or someone in your household gets sick with COVID-19 symptoms, or if your child’s school is dismissed temporarily. Employers should be aware that more employees may need to stay at home to care for sick children or other sick family members than is usual in case of a community outbreak."
       ],
@@ -722,7 +775,18 @@
       "tag": "testforcovid",
       "patterns": [
         "how can i get tested for covid19",
-        "checkup for corona virus"
+        "checkup for corona virus",
+        "what are the test for covid-19",
+        "test available for covid-19",
+        "different test for covid-19",
+        "test for covid-19",
+        "covid-19 tests",
+        "What test should I get to see if I have COVID?",
+        "what are the test for covid",
+        "test available for covid",
+        "different test for covid",
+        "test for covid",
+        "covid tests"
       ],
       "responses": [
         "Two kinds of tests are available for COVID-19: viral tests and antibody tests. A viral test checks for a current infection. An antibody test checks for a previous infection.\nIf you think you need a viral test, call your healthcare provider or state or localexternal icon health department and tell them about your symptoms and how you think you may have been exposed to the virus. Your healthcare provider can let you know if they offer viral tests at their office. Your state or local health department can provide local information on where testing is available. If you want an antibody test, call your healthcare provider to see if they offer antibody tests and whether you should get one. You can also visit your state or local health department’s website for local information on antibody testing."
@@ -733,7 +797,14 @@
       "tag": "laterpositive",
       "patterns": [
         "can someone test negative and later test positive on viral test",
-        "get again coronavirus"
+        "get again coronavirus",
+        "can I have covid after negative report of test",
+        "can i again get covid",
+        "can I get positive just after negative report of covid test",
+        "covid test positive negative",
+        "positive after negative covid test",
+        "positive covid test after negative explain",
+        "can i get covid positive after covid negative report"
       ],
       "responses": [
         "Yes, it is possible. You may test negative if the sample was collected early in your infection and test positive later during this illness. You could also be exposed to COVID-19 after the test and get infected then. Even if you test negative, you still should take steps to protect yourself and others. "
@@ -745,7 +816,13 @@
       "patterns": [
         "if i have recovered from covid-19 will i be immune to it",
         "can i get covid-19 again",
-        "can i caught covid19 again once recovered"
+        "can i caught covid19 again once recovered",
+        "can I get covid again after recovering",
+        "covid again after recovering",
+        "how long antibodies will be after a person recovered from covid",
+        "recovered from covid will i get covid again",
+        "can I get covid again just after recovering from it",
+        "recovered covid again"
       ],
       "responses": [
         "We do not know yet if people who recover from COVID-19 can get infected again. CDC and partners are investigating to determine if a person can get sick with COVID-19 more than once. Until we know more, continue to take steps to protect yourself and others."
